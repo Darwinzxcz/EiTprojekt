@@ -47,7 +47,7 @@ W tym kroku deklaruję czyjnik oraz informuję o pinie, na którym odbywać ma s
 int pinDHT11 = 2;
 SimpleDHT11 dht11(pinDHT11);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-```cp 
+``` 
 
 
 W pierwszej linii setupu definiujemy 16 kolumn i 2 rzędy wyświetlacza lcd, następnie włączamy tylne swiatło wyświetlacza, w ostatniej włączamy czujnik DHT
@@ -57,7 +57,7 @@ void setup()
   lcd.begin(16,2);
   lcd.backlight();
 }
-```cp 
+```
 
 W pętli deklaruje zmienne pod nazwą stopie oraz wilgoc i przypisuje im dane pobrane z czujnika DHT11
 
