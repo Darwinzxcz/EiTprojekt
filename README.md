@@ -50,7 +50,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 ``` 
 
 
-W pierwszej linii setupu definiujemy 16 kolumn i 2 rzędy wyświetlacza lcd, następnie włączamy tylne swiatło wyświetlacza, w ostatniej włączamy czujnik DHT
+W pierwszej linii setupu definiujemy 16 kolumn i 2 rzędy wyświetlacza lcd, następnie włączamy tylne swiatło wyświetlacza.
+
 ```cp 
 void setup()
 {
