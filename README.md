@@ -16,7 +16,7 @@ Arduino uno R3 datasheet:
 http://www.linhkientot.vn/ebook/arduino-uno-r3-datasheet.pdf
 
 [2] wyświetlacz LCD 16x2
-![2 wyświetlacz LCD16x2](wyświetlacz.jpg)
+![2 wyświetlacz LCD16x2](wyswietlacz.png)
 
 Wyświetlacz datasheet: jest na tej stronie 
 https://www.winstar.com.tw/products/character-lcd-display-module/16x2-datasheet.html
