@@ -136,7 +136,7 @@ void loop() {
 
 Dodam jeszcze pare fotek jak prezentuje sie zbudowany układ 
 
-![układ fotki] (układ1.png)
+![układ fotki] (układ1.jpg)
 
 
 
