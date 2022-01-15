@@ -34,6 +34,11 @@ Schemat układu: niezbędne połączenia
 
 ![schemat układu](schemat.png)
 
+Połączenia jakie występują w układzie
+
+wyświetlacz - gnd-gnd vcc-5V SDA-A4 SCL-A5
+DHT11 - zasilanie(+)-5V uziemienie-GND Signal-PIN2
+
 
 Biblioteki z których kożystam
 ```cp 
