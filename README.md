@@ -140,7 +140,9 @@ Dodam jeszcze pare fotek jak prezentuje sie zbudowany układ
 ![foty](dwa.jpg)
 ![foty](trzy.jpg)
 
-
+The End 
+Dziekuję 
+Kacper Boguń
 
 
 
